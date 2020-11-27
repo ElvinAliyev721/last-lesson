@@ -10,3 +10,4 @@ str1+=str[i];
 console.log(str1);
 }
 console.log(removeword('Elvin','i'));
+//added by Elvin
